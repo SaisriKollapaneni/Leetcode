@@ -17,13 +17,14 @@ Each pattern has its own folder containing:
 3. **Consistency** – Solve problems daily/weekly until all major patterns are covered.
 4. **Reusable knowledge** – Build a personal reference guide for coding interviews.
 
-✏️ Learning Philosophy
+## ✏️ Learning Philosophy
 
 1. Solve → Understand → Explain → Repeat.
 2. Quality over quantity — I focus on why a solution works, not just how to code it.
 3. Mistakes are part of the process — I record them so I don’t repeat them.
 
-🤝 Contributions
+## 🤝 Contributions
+
 This is primarily my personal learning log, but if you have suggestions or better solutions, feel free to open a pull request or share ideas in the Issues section.
 
 
